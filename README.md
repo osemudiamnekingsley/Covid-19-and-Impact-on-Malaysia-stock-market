@@ -11,8 +11,6 @@ Analyse Covid-19 data and its impact on Malaysia stock market, specifically the 
 - Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market/blob/main/SQLQuery3.sql)
 - Tableau for data visualisation - View [dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1)
 
-### Posted in
-- [Medium](https://katiehuangx.medium.com/covid-19-analysing-covid-19-and-the-impact-on-bursa-malaysia-klse-index-31e390fb04cd)
 
 ### Dashboard
 
